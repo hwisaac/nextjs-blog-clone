@@ -1,6 +1,7 @@
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import './globals.css';
+import 'react-multi-carousel/lib/styles.css';
 import { Open_Sans } from 'next/font/google';
 
 const sans = Open_Sans({ subsets: ['latin'] });
