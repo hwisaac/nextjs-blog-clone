@@ -11,6 +11,7 @@ export default function Hero() {
         alt='profile'
         width={250}
         height={250}
+        priority
       />
       <h2 className='text-3xl font-bold mt-2'>{"Hi, I'm Isaac"}</h2>
       <h3 className='text-xl font-semibold'>Full-stack Engineer</h3>
